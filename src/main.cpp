@@ -1,3 +1,7 @@
+// wip simulation of planetary motion about a star
+// will hopefully develop into a black hole when I have the computational power for it
+// commented every line cause i fucking hate all of you
+
 #include <iostream>
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
