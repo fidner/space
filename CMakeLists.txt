@@ -17,5 +17,3 @@ target_link_libraries(main PRIVATE
     glad::glad
     glm::glm
 )
-
-# self-note: cmake -B build -S . -DCMAKE_TOOLCHAIN_FILE="C:/vcpkg/scripts/buildsystems/vcpkg.cmake" to configure project with vcpkg
